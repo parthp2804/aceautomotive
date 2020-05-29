@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                                                LoadWeb(mywebView.getUrl());
                                        }
                                    });
-        LoadWeb("http://aceautomotive.co.in/index.php/en/");
+        LoadWeb("<Your Website Link>");
 
     }
 
